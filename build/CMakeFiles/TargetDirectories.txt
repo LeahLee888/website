@@ -1,0 +1,3 @@
+/home/leahlee/桌面/test/build/CMakeFiles/hello.dir
+/home/leahlee/桌面/test/build/CMakeFiles/edit_cache.dir
+/home/leahlee/桌面/test/build/CMakeFiles/rebuild_cache.dir
